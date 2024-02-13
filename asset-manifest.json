@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Portfolio_ritu/static/css/main.48de6625.css",
+    "main.js": "/Portfolio_ritu/static/js/main.94c854b0.js",
+    "static/media/cv.pdf": "/Portfolio_ritu/static/media/cv.da7a3c61e604ff66ce22.pdf",
+    "static/media/photo-linkedin.jpg": "/Portfolio_ritu/static/media/photo-linkedin.67eee8d825ea02eaede0.jpg",
+    "index.html": "/Portfolio_ritu/index.html",
+    "main.48de6625.css.map": "/Portfolio_ritu/static/css/main.48de6625.css.map",
+    "main.94c854b0.js.map": "/Portfolio_ritu/static/js/main.94c854b0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.48de6625.css",
+    "static/js/main.94c854b0.js"
+  ]
+}
