@@ -39,13 +39,13 @@ const Contact = () => {
       <IoIosMail className='contact__option_icons'/>
       <h4>Email</h4>
       <h5>rituchouhan1508@gmail.com</h5>
-        <a href='mailto:rituchouhan@gmail.com' target='_blank'>Send a message</a>
+        <a href='mailto:rituchouhan1508@gmail.com' target='_blank'>Send a message</a>
       </article>
       <article className='contact__option'>
       <IoCall  className='contact__option_icons' />
       <h4>Call</h4>
       <h5>+916387394823</h5>
-        <a href='tel:+916387394823' target='_blank'>Send a message</a>
+        <a href='tel:+916387394823' target='_blank'>Tap to call</a>
       </article>
       <article className='contact__option'>
       <IoLogoWhatsapp  className='contact__option_icons' />

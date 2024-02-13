@@ -52,7 +52,7 @@ input,textarea{
     color: var(--color-white);
 }
 .btn{
-    margin-bottom: 5px;
+    margin-bottom: 20px;
 }
 form input {
     border:  3px solid grey;
